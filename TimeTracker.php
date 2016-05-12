@@ -7,7 +7,7 @@ namespace Tracker;
  */
 class TimeTracker
 {
-	private $start;
+    private $start;
 
     public function __construct() {
         $this->start = microtime(true);
