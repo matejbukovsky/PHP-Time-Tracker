@@ -2,7 +2,7 @@
 Measure time of process
 
 ## How to use
-```ruby
+```
 $tt = new TimeTracker(); // Measuring of time starts here
 // do some processes
 $tt->getTime(); // Return: 2h 32m 26s 6538ms
